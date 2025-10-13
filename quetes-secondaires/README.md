@@ -16,3 +16,4 @@ Les quêtes secondaires sont la pour vous apportez XP et argent, ces quêtes son
 | [Bartok](nom-9.md) | [Genzo](nom-10.md) | [Greta](nom-11.md) | [Maya](nom-12.md) | [Rina](nom-13.md) | [Soeur thera](nom-14.md) | [Toban](nom-15.md) | [Elwyn](nom-16.md) |
 | [Louise](nom-17.md) | [Martine](nom-18.md) | [Michelle](nom-19.md) | [Phares](nom-20.md) | [Ayaka](nom-21.md) | [Daiki](nom-22.md) | [Saya](nom-23.md) | [Corentin](nom-24.md) |
 | [Jean](nom-25.md) |   |   |   |   |   |   |   |
+
