@@ -10,6 +10,7 @@
   * [Quête 5](quetes-principales/quete-5.md)
   * [Quête 6](quetes-principales/quete-6.md)
   * [Quête 7](quetes-principales/quete-7.md)
+  * [Quête 8](quetes-principales/quete-8.md)
 * [Quêtes Secondaires](quetes-secondaires/README.md)
   * [Nom 1](quetes-secondaires/nom-1.md)
   * [Nom 2](quetes-secondaires/nom-2.md)
