@@ -10,3 +10,4 @@ Les quêtes secondaires sont la pour vous apportez XP et argent, ces quêtes son
 
 vous pouvez retrouvez ici l'ensemble des quêtes secondaires à nôtre dispositions à jour avec le l'emplacement du PNJ (coordonnée) sa requête, le(s) lieu(x) ou vous pouvez trouver les matériaux ainsi que les récompenses en XP et monnaie.
 
+
