@@ -48,7 +48,7 @@
   * [Donjon 4](donjons/donjon-4.md)
 * [Raids](raids/README.md)
   * [Raid 1](raids/raid-1.md)
-* [Starlink](starlink/README.md)
+* [Pack Link Start F2P](starlink/README.md)
   * [Farm Starlink](starlink/farm-starlink.md)
 * [Crafts](crafts/README.md)
   * [Craft 1](crafts/craft-1.md)
