@@ -49,7 +49,7 @@
 * [Raids](raids/README.md)
   * [Raid 1](raids/raid-1.md)
 * [Pack Link Start F2P](starlink/README.md)
-  * [Farm Starlink](starlink/farm-starlink.md)
+  * [Pack Link Start](starlink/farm-starlink.md)
 * [Crafts](crafts/README.md)
   * [Craft 1](crafts/craft-1.md)
   * [Craft 2](crafts/craft-2.md)
