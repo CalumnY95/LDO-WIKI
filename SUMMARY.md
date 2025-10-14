@@ -1,9 +1,13 @@
-# Table of contents
+# Sommaire
 
-* [Accueil](README.md)
+* [Accueil](acceuil.md)
 * [LDO](ldo.md)
+
+---
+
+## ⚔️ Quêtes Principales
 * [Quêtes Principales](quetes-principales/README.md)
-  * [Maitre épéiste et sanglier](quetes-principales/quete-1.md)
+  * [Quête 1](quetes-principales/quete-1.md)
   * [Quête 2](quetes-principales/quete-2.md)
   * [Quête 3](quetes-principales/quete-3.md)
   * [Quête 4](quetes-principales/quete-4.md)
@@ -11,50 +15,78 @@
   * [Quête 6](quetes-principales/quete-6.md)
   * [Quête 7](quetes-principales/quete-7.md)
   * [Quête 8](quetes-principales/quete-8.md)
+
+---
+
+## 🌟 Quêtes Secondaires
 * [Quêtes Secondaires](quetes-secondaires/README.md)
-  * [Saria](quetes-secondaires/nom-1.md)
-  * [Meiko](quetes-secondaires/nom-2.md)
-  * [Rikyu](quetes-secondaires/nom-3.md)
-  * [Inari](quetes-secondaires/nom-4.md)
-  * [Orin](quetes-secondaires/nom-5.md)
-  * [Lila](quetes-secondaires/nom-6.md)
-  * [Tilda](quetes-secondaires/nom-7.md)
-  * [Varn](quetes-secondaires/nom-8.md)
-  * [Bartok](quetes-secondaires/nom-9.md)
-  * [Genzo](quetes-secondaires/nom-10.md)
-  * [Greta](quetes-secondaires/nom-11.md)
-  * [Maya](quetes-secondaires/nom-12.md)
-  * [Rina](quetes-secondaires/nom-13.md)
-  * [Soeur thera](quetes-secondaires/nom-14.md)
-  * [Toban](quetes-secondaires/nom-15.md)
-  * [Elwyn](quetes-secondaires/nom-16.md)
-  * [Louise](quetes-secondaires/nom-17.md)
-  * [Martine](quetes-secondaires/nom-18.md)
-  * [Michelle](quetes-secondaires/nom-19.md)
-  * [Phares](quetes-secondaires/nom-20.md)
-  * [Jean](quetes-secondaires/jean.md)
-  * [Corentin](quetes-secondaires/corentin.md)
-  * [Daiki](quetes-secondaires/daiki.md)
+  * [Saria](quetes-secondaires/saria.md)
+  * [Meiko](quetes-secondaires/meiko.md)
+  * [Rikyu](quetes-secondaires/rikyu.md)
+  * [Inari](quetes-secondaires/inari.md)
+  * [Orin](quetes-secondaires/orin.md)
+  * [Lila](quetes-secondaires/lila.md)
+  * [Tilda](quetes-secondaires/tilda.md)
+  * [Varn](quetes-secondaires/varn.md)
+  * [Bartok](quetes-secondaires/bartok.md)
+  * [Genzo](quetes-secondaires/genzo.md)
+  * [Greta](quetes-secondaires/greta.md)
+  * [Maya](quetes-secondaires/maya.md)
+  * [Rina](quetes-secondaires/rina.md)
+  * [Soeur thera](quetes-secondaires/soeur-thera.md)
+  * [Toban](quetes-secondaires/toban.md)
+  * [Louise](quetes-secondaires/louise.md)
+  * [Martine](quetes-secondaires/martine.md)
+  * [Michelle](quetes-secondaires/michelle.md)
+  * [Phares](quetes-secondaires/phares.md)
   * [Ayaka](quetes-secondaires/ayaka.md)
+  * [Daiki](quetes-secondaires/daiki.md)
   * [Saya](quetes-secondaires/saya.md)
+  * [Corentin](quetes-secondaires/corentin.md)
+  * [Jean](quetes-secondaires/jean.md)
+
+---
+
+## 🗺️ Cartes
+* [Cartes](cartes/README.md)
   * [Full Map](cartes/full-map.md)
   * [Carte PNJ](cartes/carte-pnj.md)
   * [Carte Mob](cartes/carte-mob.md)
+
+---
+
+## ⚒️ Métiers
 * [Métiers](metiers/README.md)
-  * [Mineur](metiers/mine.md)
-  * [Bûcheron](metiers/bucheron.md)
+  * [Mineur](metiers/mineur.md)
+  * [Bucheron](metiers/bucheron.md)
   * [Fermier](metiers/fermier.md)
-  * [Pêcheur](metiers/pecheur.md)
+  * [Pecheur](metiers/pecheur.md)
   * [Chasseur](metiers/chasseur.md)
+
+---
+
+## 🏰 Donjons
 * [Donjons](donjons/README.md)
   * [Donjon 1](donjons/donjon-1.md)
   * [Donjon 2](donjons/donjon-2.md)
   * [Donjon 3](donjons/donjon-3.md)
   * [Donjon 4](donjons/donjon-4.md)
+
+---
+
+## ⚔️ Raids
 * [Raids](raids/README.md)
   * [Raid 1](raids/raid-1.md)
-* [Pack Link Start F2P](starlink/README.md)
-  * [Pack Link Start](starlink/farm-starlink.md)
+
+---
+
+## 🌌 Starlink
+* [Starlink](starlink/README.md)
+  * [Farm Starlink](starlink/farm-starlink.md)
+
+---
+
+## 🧪 Crafts
 * [Crafts](crafts/README.md)
   * [Craft 1](crafts/craft-1.md)
   * [Craft 2](crafts/craft-2.md)
@@ -64,18 +96,30 @@
   * [Craft 6](crafts/craft-6.md)
   * [Craft 7](crafts/craft-7.md)
   * [Craft 8](crafts/craft-8.md)
+
+---
+
+## 🧙‍♂️ Classes
 * [Classes](classes/README.md)
   * [Guerrier](classes/guerrier.md)
   * [Archer](classes/archer.md)
   * [Mage](classes/mage.md)
   * [Shaman](classes/shaman.md)
   * [Assassin](classes/assassin.md)
+
+---
+
+## ⚒️ Stuff et Armes
 * [Stuff et Armes](stuff-et-armes/README.md)
   * [Guerrier](stuff-et-armes/guerrier.md)
   * [Archer](stuff-et-armes/archer.md)
   * [Mage](stuff-et-armes/mage.md)
   * [Shaman](stuff-et-armes/shaman.md)
   * [Assassin](stuff-et-armes/assassin.md)
+
+---
+
+## 🧟 Mobs / Codex
 * [Mobs / Codex](mobs-codex/README.md)
   * [Mob 1](mobs-codex/mob-1.md)
   * [Mob 2](mobs-codex/mob-2.md)
