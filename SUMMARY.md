@@ -46,6 +46,7 @@
 ## 🗺️ Cartes
 
 * [Cartes](cartes/README.md)
+  * [carte interactive](full-map.png)
   * [Full Map](cartes/full-map.md)
   * [Carte PNJ](cartes/carte-pnj.md)
   * [Carte Mob](cartes/carte-mob.md)
