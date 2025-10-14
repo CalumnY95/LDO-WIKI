@@ -52,6 +52,21 @@
   * [Carte PNJ](cartes/carte-pnj.md)
   * [Carte Mob](cartes/carte-mob.md)
 
+* [Zones](zones/README.md)
+  * [Ville de départ](zones/ville-de-depart.md)
+  * [Hanaka](zones/hanaka.md)
+  * [Minazuri](zones/minazuri.md)
+  * [Vallhat](zones/vallhat.md)
+  * [Zone militaire](zones/zone-militaire.md)
+  * [Ruines maudites](zones/ruines-maudites.md)
+  * [Mine 1](zones/mine-1.md)
+  * [Mine 2](zones/mine-2.md)
+  * [Archipelle Ika](zones/archipelle-ika.md)
+  * [Marécage putrique](zones/marecage-putrique.md)
+  * [Marécage](zones/marecage.md)
+  * [Plaine au sanglier](zones/plaine-au-sanglier.md)
+  * [Montagne des bandits](zones/montagne-bandit.md)
+
 ## ⚒️ Métiers
 
 * [Métiers](metiers/README.md)
