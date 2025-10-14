@@ -133,7 +133,6 @@
   * [Mob 21](mobs-codex/mob-21.md)
   * [Mob 22](mobs-codex/mob-22.md)
   * [Mob 23](mobs-codex/mob-23.md)
-  * 
   * [Mob 24](mobs-codex/mob-24.md)
   * [Mob 25](mobs-codex/mob-25.md)
   * [Mob 26](mobs-codex/mob-26.md)
