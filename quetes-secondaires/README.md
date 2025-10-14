@@ -16,3 +16,4 @@ Les quêtes secondaires sont la pour vous apportez XP et argent, ces quêtes son
 | [Rina](quetes-secondaires/rina.md)     | [Soeur thera](quetes-secondaires/soeur-thera.md) | [Toban](quetes-secondaires/toban.md)   | [Louise](quetes-secondaires/louise.md) | [Martine](quetes-secondaires/martine.md) | [Michelle](quetes-secondaires/michelle.md) |
 | [Phares](quetes-secondaires/phares.md) | [Ayaka](ayaka.md)                                | [Daiki](daiki.md)                      | [Saya](saya.md)                        | [Corentin](corentin.md)                  | [Jean](jean.md)                            |
 | [elwyn](./elwyb.md) | | | | | |
+
