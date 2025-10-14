@@ -1,6 +1,5 @@
 # Sommaire
 
-* [Accueil](acceuil.md)
 * [LDO](ldo.md)
 
 ---
