@@ -1,7 +1,8 @@
+# Table of contents
+
+* [README](README.md)
 * [🏠 Accueil](accueil.md)
 * [📜 LDO](ldo.md)
-
----
 
 ## ⚔️ Progression du joueur
 
@@ -14,7 +15,6 @@
   * [Quête 6](quetes-principales/quete-6.md)
   * [Quête 7](quetes-principales/quete-7.md)
   * [Quête 8](quetes-principales/quete-8.md)
-
 * [💫 Quêtes Secondaires](quetes-secondaires/README.md)
   * [Saria](quetes-secondaires/saria.md)
   * [Meiko](quetes-secondaires/meiko.md)
@@ -41,8 +41,6 @@
   * [Corentin](quetes-secondaires/corentin.md)
   * [Jean](quetes-secondaires/jean.md)
 
----
-
 ## 🗺️ Exploration
 
 * [🗺️ Cartes](cartes/README.md)
@@ -50,7 +48,6 @@
   * [Full Map](cartes/full-map.md)
   * [Carte PNJ](cartes/carte-pnj.md)
   * [Carte Mob](cartes/carte-mob.md)
-
 * [🌍 Zones](zones/README.md)
   * [Ville de départ](zones/ville-de-depart.md)
   * [Hanaka](zones/hanaka.md)
@@ -66,17 +63,14 @@
   * [Plaine au sanglier](zones/plaine-au-sanglier.md)
   * [Montagne des bandits](zones/montagne-bandit.md)
 
----
-
 ## ⚒️ Gameplay
 
 * [⚒️ Métiers](metiers/README.md)
-  * [Mineur](metiers/mineur.md)
+  * [Mineur](gameplay/metiers/mineur.md)
   * [Bucheron](metiers/bucheron.md)
   * [Fermier](metiers/fermier.md)
   * [Pecheur](metiers/pecheur.md)
   * [Chasseur](metiers/chasseur.md)
-
 * [🧪 Crafts](crafts/README.md)
   * [Craft 1](crafts/craft-1.md)
   * [Craft 2](crafts/craft-2.md)
@@ -86,22 +80,18 @@
   * [Craft 6](crafts/craft-6.md)
   * [Craft 7](crafts/craft-7.md)
   * [Craft 8](crafts/craft-8.md)
-
 * [🧙‍♂️ Classes](classes/README.md)
   * [Guerrier](classes/guerrier.md)
   * [Archer](classes/archer.md)
   * [Mage](classes/mage.md)
   * [Shaman](classes/shaman.md)
   * [Assassin](classes/assassin.md)
-
-* [⚔️ Stuff et Armes](stuff/README.md)
-  * [Guerrier](stuff/guerrier.md)
-  * [Archer](stuff/archer.md)
-  * [Mage](stuff/mage.md)
-  * [Shaman](stuff/shaman.md)
-  * [Assassin](stuff/assassin.md)
-
----
+* [⚔️ Stuff et Armes](gameplay/stuff-et-armes/README.md)
+  * [Guerrier](gameplay/stuff-et-armes/guerrier.md)
+  * [Archer](gameplay/stuff-et-armes/archer.md)
+  * [Mage](gameplay/stuff-et-armes/mage.md)
+  * [Shaman](gameplay/stuff-et-armes/shaman.md)
+  * [Assassin](gameplay/stuff-et-armes/assassin.md)
 
 ## 🏰 Défis & Contenu de groupe
 
@@ -110,44 +100,40 @@
   * [Donjon 2](donjons/donjon-2.md)
   * [Donjon 3](donjons/donjon-3.md)
   * [Donjon 4](donjons/donjon-4.md)
-
 * [⚔️ Raids](raids/README.md)
   * [Raid 1](raids/raid-1.md)
-
----
 
 ## 🌌 Autres Contenus
 
 * [🌌 Starlink](starlink/README.md)
   * [Farm Starlink](starlink/farm-starlink.md)
-
-* [🧟 Mobs / Codex](mobs/README.md)
-  * [Sanglier Frénétique](mobs/sanglier-frenetique.md)
-  * [Pumba](mobs/pumba.md)
-  * [Loup Sinistre Blanc](mobs/loup-sinistre-blanc.md)
-  * [Loup Sinistre Noir](mobs/loup-sinistre-noir.md)
-  * [Loup Sinistre Brun](mobs/loup-sinistre-brun.md)
-  * [Albal](mobs/albal.md)
-  * [Nephentes](mobs/nephentes.md)
-  * [Plante Dévoreuse](mobs/plante-devoreuse.md)
-  * [Guerrier Tréant](mobs/guerrier-treant.md)
-  * [Tréant Élite](mobs/treant-elite.md)
-  * [Mini Tréant](mobs/mini-treant.md)
-  * [Mage Sylvestre](mobs/mage-sylvestre.md)
-  * [Gardien Colossal](mobs/gardien-colossal.md)
-  * [Guerrier Slime](mobs/guerrier-slime.md)
-  * [Petit Slime](mobs/petit-slime.md)
-  * [Slime Soigneur](mobs/slime-soigneur.md)
-  * [Slime Magicien](mobs/slime-magicien.md)
-  * [BOSS SLIME](mobs/boss-slime.md)
-  * [Squelette Épeiste](mobs/squelette-epeiste.md)
-  * [Squelette Halbardier](mobs/squelette-halbardier.md)
-  * [Archer Squelette](mobs/archer-squelette.md)
-  * [Tank Squelette](mobs/tank-squelette.md)
-  * [Mage Squelette](mobs/mage-squelette.md)
-  * [Bandit Assassin](mobs/bandit-assassin.md)
-  * [Bandit Archer](mobs/bandit-archer.md)
-  * [Bandit Robuste](mobs/bandit-robuste.md)
-  * [Ika](mobs/ika.md)
-  * [Narax](mobs/narax.md)
-  * [Nasgul](mobs/nasgul.md)
+* [🧟 Mobs / Codex](autres-contenus/mobs-codex/README.md)
+  * [Sanglier Frénétique](autres-contenus/mobs-codex/sanglier-frenetique.md)
+  * [Pumba](autres-contenus/mobs-codex/pumba.md)
+  * [Loup Sinistre Blanc](autres-contenus/mobs-codex/loup-sinistre-blanc.md)
+  * [Loup Sinistre Noir](autres-contenus/mobs-codex/loup-sinistre-noir.md)
+  * [Loup Sinistre Brun](autres-contenus/mobs-codex/loup-sinistre-brun.md)
+  * [Albal](autres-contenus/mobs-codex/albal.md)
+  * [Nephentes](autres-contenus/mobs-codex/nephentes.md)
+  * [Plante Dévoreuse](autres-contenus/mobs-codex/plante-devoreuse.md)
+  * [Guerrier Tréant](autres-contenus/mobs-codex/guerrier-treant.md)
+  * [Tréant Élite](autres-contenus/mobs-codex/treant-elite.md)
+  * [Mini Tréant](autres-contenus/mobs-codex/mini-treant.md)
+  * [Mage Sylvestre](autres-contenus/mobs-codex/mage-sylvestre.md)
+  * [Gardien Colossal](autres-contenus/mobs-codex/gardien-colossal.md)
+  * [Guerrier Slime](autres-contenus/mobs-codex/guerrier-slime.md)
+  * [Petit Slime](autres-contenus/mobs-codex/petit-slime.md)
+  * [Slime Soigneur](autres-contenus/mobs-codex/slime-soigneur.md)
+  * [Slime Magicien](autres-contenus/mobs-codex/slime-magicien.md)
+  * [BOSS SLIME](autres-contenus/mobs-codex/boss-slime.md)
+  * [Squelette Épeiste](autres-contenus/mobs-codex/squelette-epeiste.md)
+  * [Squelette Halbardier](autres-contenus/mobs-codex/squelette-halbardier.md)
+  * [Archer Squelette](autres-contenus/mobs-codex/archer-squelette.md)
+  * [Tank Squelette](autres-contenus/mobs-codex/tank-squelette.md)
+  * [Mage Squelette](autres-contenus/mobs-codex/mage-squelette.md)
+  * [Bandit Assassin](autres-contenus/mobs-codex/bandit-assassin.md)
+  * [Bandit Archer](autres-contenus/mobs-codex/bandit-archer.md)
+  * [Bandit Robuste](autres-contenus/mobs-codex/bandit-robuste.md)
+  * [Ika](autres-contenus/mobs-codex/ika.md)
+  * [Narax](autres-contenus/mobs-codex/narax.md)
+  * [Nasgul](autres-contenus/mobs-codex/nasgul.md)
