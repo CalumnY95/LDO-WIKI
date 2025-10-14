@@ -8,4 +8,9 @@ Les quêtes secondaires sont la pour vous apportez XP et argent, ces quêtes son
 4. Déloquer de nouvelles armures/ armes
 5. Vous rendre engageant pour les donjons/ raids
 
+## 🗺️ Accès rapides
 
+| [Saria](saria.md) | [Meiko](meiko.md) | [Rikyu](rikyu.md) | [Inari](inari.md) | [Orin](orin.md) | [Lila](lila.md) | [Tilda](tilda.md) | [Varn](varn.md) |
+|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+| [Bartok](bartok.md) | [Genzo](genzo.md) | [Greta](greta.md) | [Maya](maya.md) | [Rina](rina.md) | [Soeur thera](soeur-thera.md) | [Toban](toban.md) | [Louise](louise.md) |
+| [Martine](martine.md) | [Michelle](michelle.md) | [Phares](phares.md) | [Ayaka](ayaka.md) | [Daiki](daiki.md) | [Saya](saya.md) | [Corentin](corentin.md) | [Jean](jean.md) |
