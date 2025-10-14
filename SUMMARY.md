@@ -21,7 +21,7 @@
   * [Saria](quetes-secondaires/quetes-secondaires/saria.md)
   * [Meiko](quetes-secondaires/quetes-secondaires/meiko.md)
   * [Rikyu](quetes-secondaires/quetes-secondaires/rikyu.md)
-  * [Inari](quetes-secondaires/quetes-secondaires/inari.md)
+  * [Inari](quetes-secondaires/inari.md)
   * [Orin](quetes-secondaires/quetes-secondaires/orin.md)
   * [Lila](quetes-secondaires/quetes-secondaires/lila.md)
   * [Tilda](quetes-secondaires/quetes-secondaires/tilda.md)
