@@ -17,7 +17,7 @@
 
 ## 🌟 ## Quêtes Secondaires
 
-* [Quêtes secondaires](README.md)
+* [Quêtes secondaires](quetes-secondaires/README.md)
   * [Saria](quetes-secondaires/saria.md)
   * [Meiko](quetes-secondaires/meiko.md)
   * [Rikyu](quetes-secondaires/rikyu.md)
