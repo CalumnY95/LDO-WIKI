@@ -2,6 +2,7 @@
 
 # Zone : Marécage 
 
-loot : Gelée de Slime : 30%
+# loot : Gelée de Slime : 30%
+
 
 
