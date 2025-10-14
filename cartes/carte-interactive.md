@@ -12,7 +12,6 @@ Clique sur une zone pour ouvrir la page correspondante.
   <area shape="rect" coords="822,1234,880,1317" href="../quetes-secondaires/inari.md" alt="Inari" title="Inari">
 </map>
 
-<img src="./full-map.png" usemap="#worldmap" alt="Carte LDO" width="1536" style="max-width:none;">
 <area shape="rect" coords="929,1103,962,1136" href="...">
 <area shape="rect" coords="995,1118,1040,1166" href="...">
 <area shape="rect" coords="959,1213,1037,1286" href="...">
