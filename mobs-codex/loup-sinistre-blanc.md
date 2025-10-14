@@ -4,4 +4,6 @@
 
 # loot : 
 Fourrure de loup : 60%
+
 Crocs de loup : 30%
+
