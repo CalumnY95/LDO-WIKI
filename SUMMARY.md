@@ -1,6 +1,3 @@
-# Table of contents
-
-* [README](README.md)
 * [🏠 Accueil](accueil.md)
 * [📜 LDO](ldo.md)
 
