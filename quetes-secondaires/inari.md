@@ -13,4 +13,3 @@ Récompenses : 238XP
 Récompenses : 2500€
 
 aucun prérequis
-
