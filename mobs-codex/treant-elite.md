@@ -1,5 +1,3 @@
-# Tréant élité (Archer)
-
 # Zone : Marécage putride
 
 # loot : 
@@ -8,3 +6,4 @@
 Corde d'arc Sylvestre : 25%
 
 Arc Sylvestre : 2%
+
