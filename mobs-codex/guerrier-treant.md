@@ -1,5 +1,3 @@
-# Guerrier Tréant
-
 # Zone : Marécage putride
 
 # loot : 
@@ -8,5 +6,6 @@
 Racine Ancestrale : 10%
 
 Bouclier Sylvestre : 3%
+
 
 
