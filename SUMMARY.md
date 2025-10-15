@@ -1,4 +1,4 @@
-* [🏠 Accueil](readme.md)
+* [🏠 Accueil](README.md)
 * [📜 LDO](ldo.md)
 
 ## ⚔️ Progression du joueur
