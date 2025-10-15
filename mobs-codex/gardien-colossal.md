@@ -1,9 +1,10 @@
-# gardien colossal
+# gardien colossal (boss tréant)
 
 # Zone : Marécage putride
 
 # loot : 
 Mycélium : 25%
+
 
 
 
