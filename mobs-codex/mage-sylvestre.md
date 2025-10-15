@@ -1,5 +1,3 @@
-# mage sylvestre
-
 # Zone : Marécage putride
 
 # loot : 
@@ -10,3 +8,4 @@ Coeur de Bois : 20%
 Tissu Spectral : 30%
 
 Baton Sylvestre : 2%
+
