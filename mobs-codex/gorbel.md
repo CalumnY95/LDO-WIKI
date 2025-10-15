@@ -1,4 +1,4 @@
-# Gorbel (boss slime)
+(boss slime)
 
 # Zone : Marécage 
 
@@ -8,3 +8,4 @@ Gelée de Slime : 30%
 Noyau de Slime : 5%
 
 Essence du Roi des Slimes : 5%
+
