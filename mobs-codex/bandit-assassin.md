@@ -1,5 +1,3 @@
-# Bandit assassin
-
 # Zone : montagne bandit
 
 # loot : 
