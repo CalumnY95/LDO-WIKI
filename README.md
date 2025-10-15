@@ -1,5 +1,4 @@
----
-description: Bienvenue sur le Wiki de la LDO
+Bienvenue sur le Wiki de la LDO
 ---
 
 # Accueil
