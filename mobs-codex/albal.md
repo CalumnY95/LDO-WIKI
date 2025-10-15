@@ -1,5 +1,3 @@
-# Loup Sinistre Blanc
-
 # Zone : Vallée des loups
 
 # loot : 
