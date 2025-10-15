@@ -1,4 +1,4 @@
-# squelette épéiste 
+# squelette halbardier
 
 # Zone : ruines maudites
 
@@ -8,6 +8,7 @@ Poussière d'os : 35%
 Os de Squelette : 45%
 
 Âme des ruines : 40%
+
 
 
 
