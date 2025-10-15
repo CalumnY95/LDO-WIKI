@@ -1,2 +1,0 @@
-# Squelette Épeiste
-

@@ -1,2 +1,0 @@
-# BOSS SLIME
-

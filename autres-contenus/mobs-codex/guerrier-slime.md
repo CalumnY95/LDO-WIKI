@@ -1,2 +1,0 @@
-# Guerrier Slime
-

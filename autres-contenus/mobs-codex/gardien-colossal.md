@@ -1,2 +1,0 @@
-# Gardien Colossal
-
