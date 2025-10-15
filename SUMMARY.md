@@ -109,7 +109,7 @@
 ## 🧟 Mobs / Codex
 
 * [📖 Mobs / Codex](mobs/README.md)
-* [Sanglier Frénétique](mobs/sanglier-frenetique.md)
+* [Sanglier Frénétique](mobs-codex/sanglier-frenetique.md)
 * [Pumba](mobs/pumba.md)
 * [Loup Sinistre Blanc](mobs/loup-sinistre-blanc.md)
 * [Loup Sinistre Noir](mobs/loup-sinistre-noir.md)
