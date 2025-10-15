@@ -93,11 +93,13 @@
 
 ## 🏰 Défis & Contenu de groupe
 
-* [🏰 Donjons](donjons/README.md)
-  * [Donjon 1](donjons/donjon-1.md)
-  * [Donjon 2](donjons/donjon-2.md)
-  * [Donjon 3](donjons/donjon-3.md)
-  * [Donjon 4](donjons/donjon-4.md)
+## 🏰 Donjons
+* [Donjons](donjons/README.md)
+  * [Mine de Geldorak](donjons/Mine-de-Geldorak.md)
+  * [Labyrinthe des déchus](donjons/Labyrinthe-des-déchus.md)
+  * [Le Sanctuaire de Xal’Zirith](donjons/Le-Sanctuaire-de-Xal’Zirith.md)
+  * [Le Sanctuaire de Steve](donjons/Le-Sanctuaire-de-Steve.md)
+
 * [⚔️ Raids](raids/README.md)
   * [Raid 1](raids/raid-1.md)
 
